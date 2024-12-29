@@ -732,6 +732,7 @@ But for creating a new event you are already given which field are required and 
 ```
 <details>
     <summary>Sample request data to create/update an event(click to toggle )</summary>
+  
 ```json
 {
     "success": true,
@@ -790,6 +791,7 @@ PUT /api/v1/events/1
 ```
 <details>
     <summary>Response after getting event by month code (click to toggle)</summary>
+  
 ```json
 {
     "success": true,
